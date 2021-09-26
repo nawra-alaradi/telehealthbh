@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736644451029",
+    "project_id": "telehealthbh-7234b",
+    "storage_bucket": "telehealthbh-7234b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736644451029:android:1814f6eb51a9ea54a2305c",
+        "android_client_info": {
+          "package_name": "com.nawraaradi.telehealth_bh_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736644451029-fbsdm6egtu1s9ljbovgs2s06jrikabn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCJ1Htp7KZyfOUGgBEBcdWPSCi1H8zAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736644451029-fbsdm6egtu1s9ljbovgs2s06jrikabn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
